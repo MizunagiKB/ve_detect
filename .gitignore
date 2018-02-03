@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+res_image/*.jpg
+ein_image/*.png
+
+res_image/*.jpg
+res_image/*.png
